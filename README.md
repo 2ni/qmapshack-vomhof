@@ -6,8 +6,11 @@ GPX generator with all farms from [vomhof ch](https://vomhof.ch). Can be importe
 ## how to create vomhof.gpx
 Generate a new file or just use the one from the repo.
 ```
-python run.gpx -h
+python run.gpx --readcache --writecache
+or
+python run.gpx --help
 ```
+
 ## import
 In qmapshack just call File/Load GIS Data.
 Red   = normal farm

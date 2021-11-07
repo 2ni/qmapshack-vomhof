@@ -12,10 +12,12 @@ python run.gpx --help
 ```
 
 ## import
-In qmapshack just call File/Load GIS Data.
+In qmapshack just call File/Load GIS Data and select the file vomhof.gpx
+```
 Red   = normal farm
 Blue  = bio farm
 Green = demeter farm
+```
 
 ## installation
 ```
